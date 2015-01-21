@@ -1,7 +1,7 @@
 Name: noop-cartridge
 Cartridge-Short-Name: NOOP
 Cartridge-Version: '1.0.0'
-Cartridge-Vendor: 'github'
+Cartridge-Vendor: 'spydesk'
 Version: '1.0.0'
 Categories:
 - web_framework
