@@ -1,0 +1,10 @@
+Name: noop-cartridge
+Cartridge-Short-Name: NOOP
+Cartridge-Version: '1.0.0'
+Cartridge-Vendor: 'github'
+Version: '1.0.0'
+Categories:
+- web_framework
+Scaling:
+  Min: 1
+  Max: -1
