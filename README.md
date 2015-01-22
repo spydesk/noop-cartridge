@@ -1,4 +1,4 @@
-A minimal OpenShift cartridge to test node installation and provide a skeleton.
+A minimal working OpenShift cartridge to test node installation and provide a skeleton.
 
 ### Usage
 
